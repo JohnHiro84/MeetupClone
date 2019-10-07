@@ -9,5 +9,5 @@ This application was created with MongoDB, express,
 React, Redux, and nodeJs.
 
 One of the challenges I faced was in getting the
-events list to have each of the event boxs to be
+events list to have each of the event boxes to be
 equal in height. I used flexbox to fix this.
