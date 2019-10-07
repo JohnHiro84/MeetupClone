@@ -1,0 +1,5 @@
+.event-compose > input{
+  margin: .5em;
+  padding: .5em;
+  display: block;
+}
