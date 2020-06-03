@@ -9,7 +9,7 @@
 [Video Demonstration](https://m.youtube.com/watch?v=3eSR9Ui8NHc)
 
 
-This application lets users be able to browse and create events in their city. Users can add themselves to an event list to confirm attendance and leave comments.
+This application allows users to be able to browse and create events in their city. Users can add themselves to an event list to confirm attendance and leave comments.
 
 This application was created with MongoDB, express,
 React, Redux, and nodeJs.
