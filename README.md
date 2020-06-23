@@ -18,7 +18,7 @@ React, Redux, and nodeJs.
 
 One of the challenges I faced was in getting the
 events list to have each of the event boxes to be
-equal in height. I used flexbox to fix this.
+equal in height even if one box has more or less text than the next. I used flexbox to fix this.
 
 ## Future Directions 
 
